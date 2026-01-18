@@ -1,26 +1,41 @@
-# QA Portfolio
+# QA Portfolio – Marcelina Grzebyk
 
-## 👩‍💻 O mnie
-Jestem początkującą testerka manualną / testerka automatyzująca, rozwijająca swoje umiejętności w obszarze jakości oprogramowania.
+## Profile
+Detail-oriented QA Engineer with experience in manual testing and foundational skills in test automation. Skilled in analyzing application behavior, writing test scenarios, reporting defects, and collaborating closely with development teams. Holder of the ISTQB FL certificate. 
+Highly communicative, analytical, and eager to continue developing in automation.
+## Skills
+ - ISTQB FL Certificate
+ - Strong understanding of the SDLC process
+ - Manual UI and API testing
+ - Test case creation and defect reporting
+ - Agile / Scrum
+ - Documentation writing based on guidelines
+ - Strong communication skills and analytical thinking
 
-## 🧪 Umiejętności i narzędzia
-- Testowanie manualne
-- Tworzenie przypadków testowych
-- Raportowanie błędów
-- Podstawy automatyzacji testów (Python)
-- Git / GitHub
-- SQL – podstawy
+## Tools
+ #### Hands-on experience:
+- Jira
+- MongoDB
+- Postman
+- GitHub/Gitlab
+- DevTools (DOM, Network, Console, debugging)
 
-## 📁 Zawartość repozytorium
-Repozytorium zawiera przykłady mojej pracy jako testera, w tym:
-- Przypadki testowe
-- Checklisty testowe
-- Raporty błędów
-- Dokumentację testową
-- (w przyszłości) testy automatyczne
+#### Basic knowledge/Currently developing:
+- Python
+- Pytest
+- Playwright
+- Cucumber
 
-## 🎯 Cel repozytorium
-Celem tego repozytorium jest prezentacja moich umiejętności oraz sposobu myślenia testerskiego.
+## Repository contents
+Repository contains examples of my work as a tester:
+- `test-cases` – test cases and checklists
+- `bug-reports` – examples of bug reports
+- `test-plan` – tests documentation
+- `automation` – automated tests (Python)
 
-## 📌 Status
-Projekt w trakcie rozwoju 🚀
+## Goal
+The purpose of this repository is to showcase my testing skills and analytical thinking.
+This is my chance to show you what I already know and what I am good at, as well as what I am currently working on to expand my skills.
+## Status
+Portfolio in development – new items will be added regularly.
+
