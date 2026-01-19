@@ -30,7 +30,7 @@ Highly communicative, analytical, and eager to continue developing in automation
 Repository contains examples of my work as a tester:
 - `test-cases` – test cases and checklists
 - `bug-reports` – examples of bug reports
-- `test-plan` – tests documentation
+- `checklists` – checklists for tests
 - `automation` – automated tests (Python)
 
 ## Goal
