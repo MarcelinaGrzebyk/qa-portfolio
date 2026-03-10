@@ -32,6 +32,7 @@ Repository contains examples of my work as a tester:
 - `bug-reports` – examples of bug reports
 - `checklists` – checklists for tests
 - `automation` – automated tests (Python)
+- `recruitment-task` - examples and recruitment tasks given to me, the content of which was created without the use of AI tools, demonstrating my task-oriented approach and logical thinking
 
 ## Goal
 The purpose of this repository is to showcase my testing skills and analytical thinking.
